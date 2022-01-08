@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wasian1
 - 👀 I’m interested in anything related to Data Science and automation
 - 🌱 I’m currently learning Selenium, Python, SQL, Tableau, Excel
-- 💞️ I’m looking to collaborate on anythhing related to Python and Data Science!
+- 💞️ I’m looking to collaborate on anything related to Python and Data Science!
 - 📫 How to reach me -> Email Address: dcfitzsimmons1995@gmail.com.
 
 <!---
